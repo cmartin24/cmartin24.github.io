@@ -11,9 +11,9 @@ title                    : "Cameron Martin / Site Title"
 title_separator          : "-"
 name                     : &name "Cameron Martin"
 description              : &description "personal description"
-url                      : https://cameronmartin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cmartin24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "freshwatercam/cameronmartin.github.io"
+repository               : "cmartin24/cmartin24.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
