@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Cameron Martin / Site Title"
+title                    : "Cameron Martin"
 title_separator          : "-"
 name                     : &name "Cameron Martin"
-description              : &description "personal description"
+description              : &description "Testing testing personal description"
 url                      : https://cmartin24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cmartin24.github.io"
