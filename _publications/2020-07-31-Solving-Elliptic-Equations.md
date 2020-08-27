@@ -12,4 +12,4 @@ The Feynman-Kac formula provides a way to understand solutions to elliptic parti
 
 This paper was submitted to *Methodology and Computing in Applied Probability* on July 31, 2020. The preprint can be found [here](https://arxiv.org/abs/2008.00144).
 
-Recommended citation: Cameron Martin, Hongyuan Zhang, Julia Costacurta, Mihai Nica, and Adam R Stinchcombe (2020). "Solving Elliptic Equations with Brownian Motion: Bias Reduction and Temporal Difference Learning." <i>Journal 1</i>. 1(1).
+Recommended citation: Cameron Martin, Hongyuan Zhang, Julia Costacurta, Mihai Nica, and Adam R Stinchcombe. "Solving Elliptic Equations with Brownian Motion: Bias Reduction and Temporal Difference Learning". Preprint at https://arxiv.org/abs/2008.00144 (2020).
