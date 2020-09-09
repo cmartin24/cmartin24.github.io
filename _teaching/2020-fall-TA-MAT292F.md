@@ -8,4 +8,4 @@ date: 2020-09-08
 location: "Toronto, Canada"
 ---
 
-Teaching assistant for MAT292 (Ordinary Differential Equations), taught by Professor Adam Stinchcombe.
+Teaching assistant for MAT292 (Ordinary Differential Equations).
