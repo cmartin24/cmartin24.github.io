@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Cryptic Crosswords"
+    url: /cryptic/
     
   - title: "CV"
     url: /files/Cameron_Martin_CV.pdf
