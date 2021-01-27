@@ -4,5 +4,5 @@ date: 2021-01-31
 permalink: /posts/2021/01/abelian-sandpile/
 tags:
 ---
-
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+ 
+Will provide the definition and some simulations of the abelian sandpile model on the lattice.
